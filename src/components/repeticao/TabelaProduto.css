@@ -1,0 +1,21 @@
+.TabelaProduto {
+  display: flex;
+  justify-content: center;
+}
+
+.TabelaProduto table {
+  background-color: #008b8b;
+}
+
+.TabelaProduto th {
+  background-color: darkcyan;
+  color: #fff;
+}
+
+.TabelaProduto .Par {
+  background: #ddd;
+}
+
+.TabelaProduto .Impar {
+  background: #aaa;
+}
